@@ -1,0 +1,5 @@
+nom tutorial:
+https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
+
+node.js tutorial
+https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm

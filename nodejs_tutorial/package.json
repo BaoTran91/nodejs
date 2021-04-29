@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "weather_main.js",
+  "scripts": {
+    "test": "weather_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaoTran91/weather_app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "weather"
+  ],
+  "author": "bao",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BaoTran91/weather_app/issues"
+  },
+  "homepage": "https://github.com/BaoTran91/weather_app#readme"
+}
